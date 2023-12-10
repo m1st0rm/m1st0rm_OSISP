@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OSISP_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OSISP_1_2.cpp
+C:\Users\Professional\source\repos\OSISP_1_2\OSISP_1_2\OSISP_1_2.cpp(149,47): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  OSISP_1_2.vcxproj -> C:\Users\Professional\source\repos\OSISP_1_2\x64\Debug\OSISP_1_2.exe
