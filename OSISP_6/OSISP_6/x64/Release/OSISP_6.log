@@ -1,0 +1,9 @@
+﻿  OSISP_6.cpp
+C:\Users\Professional\source\repos\OSISP_6\OSISP_6\OSISP_6.cpp(17,11): warning C4101: 'producerId': unreferenced local variable
+C:\Users\Professional\source\repos\OSISP_6\OSISP_6\OSISP_6.cpp(17,23): warning C4101: 'consumerId': unreferenced local variable
+  Generating code
+  1 of 127 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OSISP_6.vcxproj -> C:\Users\Professional\source\repos\OSISP_6\x64\Release\OSISP_6.exe
