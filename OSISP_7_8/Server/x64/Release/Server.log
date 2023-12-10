@@ -1,0 +1,9 @@
+﻿  Server.cpp
+C:\Users\Professional\source\repos\OSISP_7_8\Server\Server.cpp(129,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Professional\source\repos\OSISP_7_8\Server\Server.cpp(145,55): warning C4244: 'argument': conversion from 'std::streamsize' to 'int', possible loss of data
+  Generating code
+  2 of 315 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Server.vcxproj -> C:\Users\Professional\source\repos\OSISP_7_8\x64\Release\Server.exe
