@@ -1,0 +1,9 @@
+﻿  OSISP_3_4.cpp
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(236,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(273,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(312,25): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OSISP_3_4.vcxproj -> C:\Users\Professional\source\repos\OSISP_3_4\Release\OSISP_3_4.exe

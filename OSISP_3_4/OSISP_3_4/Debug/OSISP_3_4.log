@@ -1,0 +1,5 @@
+﻿  OSISP_3_4.cpp
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(236,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(273,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Professional\source\repos\OSISP_3_4\OSISP_3_4\OSISP_3_4.cpp(312,25): warning C4018: '<': signed/unsigned mismatch
+  OSISP_3_4.vcxproj -> C:\Users\Professional\source\repos\OSISP_3_4\Debug\OSISP_3_4.exe
